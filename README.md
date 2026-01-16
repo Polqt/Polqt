@@ -11,9 +11,8 @@ I don’t just like writing code — I like understanding how things work under 
 - Python  
 
 ### Areas of Interest
-- Artificial Intelligence  
-- Data Engineering
-- Cloud Engineerin
+- ML/AI 
+- Data and Cloud Engineering
 
 ### Next Language to Learn
 - Rust
