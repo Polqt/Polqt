@@ -24,10 +24,19 @@ I don’t just like writing code — I like understanding how things work under 
 - Rust
 
 <h3 align="left">Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Polqt&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Polqt&theme=tokyonight" />
-  <br />
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Polqt&show_icons=true&theme=tokyonight" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Polqt&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Polqt&layout=compact&theme=tokyonight" />
 </p>
+
