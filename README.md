@@ -22,6 +22,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polqt&layout=compact&theme=tokyonight" alt="Polqt" />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Polqt&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Polqt&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Polqt&layout=compact&theme=radical)
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Polqt&show_icons=true&locale=en&theme=tokyonight" alt="Polqt" /></p>
