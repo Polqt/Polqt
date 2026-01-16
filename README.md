@@ -1,14 +1,61 @@
 Hi, I’m Jepoy 👋  
 A 4th-year Computer Science student at **University of St. La Salle – Bacolod**.
 
-I work primarily in **full-stack** and **mobile development**, with a growing focus on **data engineering**. 
+I work primarily in `full-stack` and `mobile development`, with a growing focus on `data engineering`. Also, I don’t just like writing code, I like understanding how things work under the hood. 
+Most of my time is spent building, breaking, and rebuilding projects until they make sense to me. That’s how I learn.
 
-I don’t just like writing code — I like understanding how things work under the hood. Most of my time is spent building, breaking, and rebuilding projects until they make sense to me. That’s how I learn.
+```json
+{
+  "languages": ["typescript", "go", "python"],
 
-### Programming Languages
-- TypeScript  
-- Go  
-- Python  
+  "frontend": [
+    "react",
+    "nextjs",
+    "tanstack",
+    "vue",
+    "svelte",
+    "mui",
+    "tailwind",
+    "chakra-ui"
+  ],
+
+  "backend": [
+    "convex",
+    "nestjs",
+    "express",
+    "django"
+  ],
+
+  "database": [
+    "postgresql",
+    "mongodb",
+    "sqlite"
+  ],
+
+  "infra": [
+    "aws",
+    "digitalocean",
+    "gcp"
+  ],
+
+  "tooling": [
+    "git",
+    "github",
+    "docker",
+    "postman"
+  ],
+
+  "testing": [
+    "jest",
+    "vitest",
+    "playwright"
+  ],
+
+  "mobile": [
+    "flutter",
+    "react-native"
+  ]
+}
 
 ### Areas of Interest
 - ML/AI 
