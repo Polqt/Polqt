@@ -7,55 +7,15 @@ Most of my time is spent building, breaking, and rebuilding projects until they 
 ```json
 {
   "languages": ["typescript", "go", "python"],
-
-  "frontend": [
-    "react",
-    "nextjs",
-    "tanstack",
-    "vue",
-    "svelte",
-    "mui",
-    "tailwind",
-    "chakra-ui"
-  ],
-
-  "backend": [
-    "convex",
-    "nestjs",
-    "express",
-    "django"
-  ],
-
-  "database": [
-    "postgresql",
-    "mongodb",
-    "sqlite"
-  ],
-
-  "infra": [
-    "aws",
-    "digitalocean",
-    "gcp"
-  ],
-
-  "tooling": [
-    "git",
-    "github",
-    "docker",
-    "postman"
-  ],
-
-  "testing": [
-    "jest",
-    "vitest",
-    "playwright"
-  ],
-
-  "mobile": [
-    "flutter",
-    "react-native"
-  ]
+  "frontend": ["react", "nextjs", "tanstack", "vue", "svelte", "mui", "tailwind", "chakra-ui"],
+  "backend": ["convex", "nestjs", "express", "django"],
+  "database": ["postgresql", "mongodb", "sqlite"],
+  "infra": ["aws", "digitalocean", "gcp"],
+  "tooling": ["git", "github", "docker", "postman"],
+  "testing": ["jest", "vitest", "playwright"],
+  "mobile": ["flutter", "react-native"]
 }
+```
 
 ### Areas of Interest
 - ML/AI 
