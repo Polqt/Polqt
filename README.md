@@ -1,28 +1,33 @@
-<div> 
-  <a href="https://github.com/Polqt" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
-</div>
+Hi, I’m Jepoy 👋  
+A 4th-year Computer Science student at **University of St. La Salle – Bacolod**.
 
-<h3 align="left">Languages and Tools:</h3>
+I work primarily in **full-stack** and **mobile development**, with a growing focus on **data engineering**. 
+
+I don’t just like writing code — I like understanding how things work under the hood. Most of my time is spent building, breaking, and rebuilding projects until they make sense to me. That’s how I learn.
+
+### Programming Languages
+- TypeScript  
+- Go  
+- Python  
+
+### Current Focus
+- Full-stack web development  
+- Mobile application development  
+- Data engineering (currently learning)
+
+### Areas of Interest
+- Artificial Intelligence  
+- Data Engineering
+- Cloud Engineerin
+
+### Next Language to Learn
+- Rust
+
+<h3 align="left">Stats</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=black" alt="Appwrite" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Polqt&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Polqt&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Polqt&layout=compact&theme=tokyonight" />
 </p>
-
-<h3 align="left">Stars</h3>
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Polqt&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Polqt&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Polqt&layout=compact&theme=radical)
-
