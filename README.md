@@ -10,11 +10,6 @@ I don’t just like writing code — I like understanding how things work under 
 - Go  
 - Python  
 
-### Current Focus
-- Full-stack web development  
-- Mobile application development  
-- Data engineering (currently learning)
-
 ### Areas of Interest
 - Artificial Intelligence  
 - Data Engineering
