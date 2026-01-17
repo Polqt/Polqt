@@ -17,12 +17,12 @@ Most of my time is spent building, breaking, and rebuilding projects until they 
 }
 ```
 
-### Areas of Interest
-- ML/AI 
-- Data and Cloud Engineering
-
-### Next Language to Learn
-- Rust
+```json
+{
+  "exploring": ["ML/AI", "data engineering", "cloud engineering"],
+  "learning_next": "rust"
+}
+```
 
 <h3 align="left">Stats</h3>
 
