@@ -24,8 +24,6 @@ Most of my time is spent building, breaking, and rebuilding projects until they 
 }
 ```
 
-<h3 align="left">Stats</h3>
-
 <table>
   <tr>
     <td align="center">
