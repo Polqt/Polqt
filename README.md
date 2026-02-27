@@ -10,7 +10,7 @@ Most of my time is spent building, breaking, and rebuilding projects until they 
   "frontend": ["react", "nextjs", "tanstack", "vue", "svelte", "mui", "tailwind", "chakra-ui"],
   "backend": ["convex", "nestjs", "express", "django", "springboot"],
   "database": ["postgresql", "mongodb", "sqlite"],
-  "infra": ["aws", "digitalocean", "gcp"],
+  "infra": ["aws", "digitalocean", "gcp", "terraform"],
   "tooling": ["git", "github", "docker", "postman"],
   "testing": ["jest", "vitest", "playwright"],
   "mobile": ["flutter", "react-native"]
