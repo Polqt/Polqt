@@ -6,9 +6,9 @@ Most of my time is spent building, breaking, and rebuilding projects until they 
 
 ```json
 {
-  "languages": ["typescript", "go", "python", "java"],
+  "languages": ["typescript", "go", "python"],
   "frontend": ["react", "nextjs", "tanstack", "vue", "svelte", "mui", "tailwind", "chakra-ui"],
-  "backend": ["convex", "nestjs", "express", "django", "springboot", "redis", "trpc"],
+  "backend": ["convex", "nestjs", "express", "django", "redis", "trpc"],
   "database": ["postgresql", "mongodb", "sqlite"],
   "infra": ["aws", "digitalocean", "gcp", "terraform"],
   "tooling": ["git", "github", "docker", "postman"],
