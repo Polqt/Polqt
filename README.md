@@ -1,5 +1,5 @@
 Hi, I’m Jepoy 👋  
-A 4th-year Computer Science student at **University of St. La Salle – Bacolod**.
+A Computer Science graduate from the **University of St. La Salle – Bacolod**.
 
 I work primarily in `software engineer` and `mobile development`, with a growing focus on `data engineering`. Also, I don’t just like writing code, I like understanding how things work under the hood. 
 Most of my time is spent building, breaking, and rebuilding projects until they make sense to me. That’s how I learn.
