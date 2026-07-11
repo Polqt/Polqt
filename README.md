@@ -1,5 +1,5 @@
 Hi, I’m Jepoy 👋  
-A Computer Science graduate from the **University of St. La Salle – Bacolod**.
+A Computer Science graduate from the **La Salle**.
 
 I work primarily in `software engineer` and `mobile development`, with a growing focus on `data engineering`. Also, I don’t just like writing code, I like understanding how things work under the hood. 
 Most of my time is spent building, breaking, and rebuilding projects until they make sense to me. That’s how I learn.
@@ -7,7 +7,7 @@ Most of my time is spent building, breaking, and rebuilding projects until they 
 ```json
 {
   "languages": ["typescript", "go", "python", "java"],
-  "frontend": ["react", "nextjs", "tanstack", "vue", "svelte", "mui", "tailwind", "chakra-ui"],
+  "frontend": ["react", "nextjs", "tanstack", "vue", "angular", "svelte", "tailwind"],
   "backend": ["convex", "nestjs", "express", "django", "redis", "trpc", "springboot"],
   "database": ["postgresql", "mongodb", "sqlite"],
   "infra": ["aws", "digitalocean", "gcp", "terraform"],
